@@ -3,7 +3,8 @@
    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 </p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=24&pause=1000&color=00d17d&center=falso&vCenter=falso&repeat=verdadeiro&random=falso&width=400&lines=Olá!+Eu+sou+João+Miranda)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=24&pause=1000&color=6DB33F&center=falso&vCenter=falso&repeat=verdadeiro&random=falso&width=400&lines=Olá!+Eu+sou+João+Miranda.%F0%9F%92%BB)](https://git.io/typing-svg)
+
 
 
 
